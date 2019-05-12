@@ -1,0 +1,11 @@
+# Vscode folder
+.vscode
+
+
+# Compiled
+*.pyc
+
+# Docs
+*.json
+*.xml
+*.iml
