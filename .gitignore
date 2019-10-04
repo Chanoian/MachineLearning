@@ -10,3 +10,16 @@
 vscode
 .vscode
 .idea
+
+# Data Set
+datasets
+
+#Image
+images
+
+#PDF
+*.pdf
+
+#Jupyter
+*.ipynb
+.ipynb_checkpoints
